@@ -1,0 +1,12 @@
+1, Ginny, Ellen, Harry, Lewis
+2, Lewis, Betty, Cathy, Jacob
+3
+4, Betty, Frodo, Betty
+5, Harry, Susan, Betty
+6, Harry, Ellen, Annie
+7, Wanda, Annie, David, Frodo
+8, Jacob, Lewis, Frodo, Jacob, Lewis
+9
+10, Annie, Betty, Annie, Jacob
+11, Betty, Lewis, Harry
+12, Cathy, Tommy, Betty

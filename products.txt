@@ -1,0 +1,7 @@
+Air conditioners, 40000
+CCTV systems,     75000
+Dishwashers,      16000
+Microwave ovens,   4500
+Refrigerators,    24000
+
+
